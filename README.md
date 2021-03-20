@@ -11,6 +11,6 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning Advanced Javascript.
 - 👯 I’m looking to collaborate on HTML/CSS/JS/C++/Python
 - 💬 Ask me about writing clean code, c++ and web dev
-- 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>, <a href = "https://www.linkedin.com/in/pratham-krishna-2a4993145/">LinkedIn</a>
+- 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>, <a href = "https://www.linkedin.com/in/pratham-krishna-2a4993145/">LinkedIn</a>. I'll get back to you as soon as I can!
 
 
