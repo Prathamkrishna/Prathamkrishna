@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on getting myself to be a good full stack developer.
 - 🌱 I’m currently learning Advanced Javascript.
 - 👯 I’m looking to collaborate on HTML/CSS/JS/C++/Python
-- 💬 Ask me about writing clean code, c++, web dev
-- 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>
+- 💬 Ask me about writing clean code, c++ and web dev
+- 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>, <a href = "https://www.linkedin.com/in/pratham-krishna-2a4993145/">LinkedIn</a>
 
 
