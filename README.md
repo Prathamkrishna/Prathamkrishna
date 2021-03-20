@@ -8,7 +8,9 @@ Here are some ideas to get you started: -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prathamkrishna.Prathamkrishna)
 
 <h1> PRATHAM KRISHNA </h1>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamkrishna&show_icons=true&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamkrishna&show_icons=true&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamkrishna&theme=tokyonight)
+
 
 
 - 😄 I go by the pronouns: He/Him/His.
