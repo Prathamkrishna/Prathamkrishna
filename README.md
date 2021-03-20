@@ -8,9 +8,10 @@ Here are some ideas to get you started: -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prathamkrishna.Prathamkrishna)
 
 <h1> PRATHAM KRISHNA </h1>
-<h3> I'm a freshman at Lovely Professional University pursuing Computer Science Engineering with the degree of B.tech(hons).<br>
-     I've always been keen on programming until 2021 when I could really get hands-on with development and start off with something i've always wanted to do - code for hours and        hours. <br>
-     A few of my other interests include Motovlogging(<a href="https://www.youtube.com/channel/UCfkny3ccbpadisVQ0-k7YVQ/videos>I have a YouTube channel</a>), listening to music and learning and grinding on new skills.
+<h5> I'm a freshman at Lovely Professional University pursuing Computer Science Engineering with the degree of B.tech(hons).<br>
+I've always been keen on programming until 2021 when I could really get hands-on with development and start off with something i've always wanted to do - code for hours and     hours. <br>
+A few of my other interests include Motovlogging(<a href="https://www.youtube.com/channel/UCfkny3ccbpadisVQ0-k7YVQ/videos>I have a YouTube channel</a>), listening to music and learning and grinding on new skills.</h5>
+          
 
 - 😄 I go by the pronouns: He/Him/His.
 - 🔭 I’m currently working on getting myself to be a good full stack developer.
