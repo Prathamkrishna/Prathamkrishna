@@ -19,6 +19,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>, <a href = "https://www.linkedin.com/in/pratham-krishna-2a4993145/">LinkedIn</a>. I'll get back to you as soon as I can!
 
 My Github stats:
+<br>
   <a href="https://github.com/Prathamkrishna">
 <img align="center" alt="Pratham's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Prathamkrishna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 
