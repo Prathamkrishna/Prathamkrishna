@@ -7,8 +7,11 @@ Here are some ideas to get you started: -->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prathamkrishna.Prathamkrishna)
 
+<h1> PRATHAM KRISHNA </h1>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
-- 😄 My name is Pratham Krishna and I go by the pronouns: He/Him/His.
+
+- 😄 I go by the pronouns: He/Him/His.
 - 🔭 I’m currently working on getting myself to be a good full stack developer.
 - 🌱 I’m currently learning Advanced Javascript.
 - 👯 I’m looking to collaborate on HTML/CSS/JS/C++/Python
