@@ -14,7 +14,7 @@ A few of my other interests include Motovlogging(I have a <a href="https://www.y
           
 
 - 😄 I go by the pronouns: He/Him/His.
-- 🔭 I’m currently working on getting myself to be a good full stack developer.
+- 🔭 One programming language that i'm keen on learning is react.
 - 🌱 I’m currently learning Advanced Javascript.
 - 👯 I’m looking to collaborate on HTML/CSS/JS/C++/Python.
 - 💬 Ask me about writing clean code, C++ and web-dev.
