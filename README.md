@@ -20,12 +20,6 @@ A few of my other interests include Motovlogging(I have a <a href="https://www.y
 - 💬 Ask me about writing clean code, C++ and web-dev.
 - 📫 How to reach me: <a href = "https://instagram.com/prathamkrishna">Instagram</a>, <a href = "https://www.linkedin.com/in/pratham-krishna-2a4993145/">LinkedIn</a>. I'll get back to you as soon as I can!
 
-<h3>LANGUAGES AND TOOLS I USE</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
 
 My Github stats:
 <br>
