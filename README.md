@@ -29,5 +29,4 @@ My Github stats:
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Prathamkrishna&layout=compact&theme=radical" />
 </a>
 
-*please note that my javascript code is included in the HTML files so it does not show the javascript, i will be changing that soon.
 
