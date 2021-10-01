@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started: -->
 
-My name is Pratham Krishna, a web developer who loves using java and javascript and related frameworks and libraries. I specifically love working on ReactJS and Spring Boot for developing applications.
+A good team player, punctual with deadlines and a quick learning software engineer.
+Primarily working on both frontend and backend applications.
+Core Skills: React, React Native, Java, Spring Boot, Javascript, C++, MongoDB and Data Structures.
 
 - I also write blogs sometimes, which you can view <a href="https://prathamkrishna.hashnode.dev/">here</a>
 
