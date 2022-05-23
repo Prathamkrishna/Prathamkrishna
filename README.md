@@ -5,9 +5,12 @@
 
 Here are some ideas to get you started: -->
 
-A good team player, punctual with deadlines and a quick learning software engineer.
-Primarily working on both frontend and backend applications.
-Core Skills: React, React Native, Java, Spring Boot, Javascript, C++, MongoDB and Data Structures.
+A good team player, punctual with deadlines and a quick learning software engineer. 
+Primarily working on backend, devops and cloud applications.
+Core Competencies: Java, Spring Boot + Microservices + Multithreading, PostgreSQL, AWS, DevOps, GoLang, C++, MySQL and Data Structures, Git and a good understanding of design patterns and system design.
+I like to leetcode in my free time.
+
+You can view my backend work on my <a href="https://gitlab.com/Prathamkrishna">gitlab</a>
 
 - I also write blogs sometimes, which you can view <a href="https://prathamkrishna.hashnode.dev/">here</a>
 
