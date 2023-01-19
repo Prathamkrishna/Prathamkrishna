@@ -1,8 +1,5 @@
 # Pratham Krishna
 
-<!--
-**Prathamkrishna/Prathamkrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A good team player, punctual with deadlines and a quick learning software engineer.
 Primarily working on backend, devops and cloud applications.
 Core Competencies:
@@ -16,6 +13,3 @@ Server tools: Nginx, Apache tomcat
 Miscellaneous: Design patterns, strong DS fundamentals, C++
 
 I like to leetcode in my free time.
-
-
-
